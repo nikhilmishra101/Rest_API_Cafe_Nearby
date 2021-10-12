@@ -1,4 +1,4 @@
-Flask==2.0.21
+Flask==2.0.2
 Flask-SQLAlchemy==2.5.1
 SQLAlchemy == 1.4.25
 certifi==2021.5.30
