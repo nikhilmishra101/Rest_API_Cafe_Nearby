@@ -3,6 +3,7 @@
 - List of all cafes nearby you with all the details including toilets,wifi,seating_capacity and much more
 
 - To use the Api use the below link
+
 https://cafe-nearby-api.herokuapp.com/
 
 - To Know how to get started refer to the documentation give below
